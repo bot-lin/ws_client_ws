@@ -1,0 +1,2 @@
+FROM ros:humble
+ENV DEBIAN_FRONTEND noninteractive
